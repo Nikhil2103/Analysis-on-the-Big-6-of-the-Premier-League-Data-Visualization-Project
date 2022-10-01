@@ -55,4 +55,4 @@ Contains all the exploratory data analysis
 * Polynomial regression
 
 ## Link to my tableau story is given below
-* https://public.tableau.com/shared/NYZJ2K4TJ?:display_count=n&:origin=viz_share_link
+* https://public.tableau.com/views/Story-Big6ofthePremierLeague/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
